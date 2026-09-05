@@ -1,4 +1,4 @@
-## Hi there 👋
+![snake gif](https://github.com/lycants06r/lycants06r/blob/output/github-snake-dark.svg)
 
 <!--
 **lycants06r/lycants06r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
