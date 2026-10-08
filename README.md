@@ -7,13 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lycants06r" alt="lycants06r" /></a> </p>
 
-- 🔭 I’m currently working on [OBSIDIAN](https://github.com/duttaranit135-cmyk/OBSIDIAN)
 
 - 🌱 I’m currently learning **Machine learning**
 
-- 🤝 I’m looking for help with [OBSIDIAN](https://github.com/duttaranit135-cmyk/OBSIDIAN)
-
-- 💬 Ask me about **Full Stack Dev**
 
 - 📫 How to reach me **ranitklj@gmail.com**
 
