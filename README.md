@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ranit Roy</h1>
-<h3 align="center">A passionate fullstalk developer from India</h3>
+
 
 
 - 🌱 I’m currently learning **Machine learning**
